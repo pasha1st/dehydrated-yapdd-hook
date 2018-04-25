@@ -1,0 +1,7 @@
+#syntax: 
+#domain.name=token
+
+#default token:
+#  default=token
+#or
+#  token
