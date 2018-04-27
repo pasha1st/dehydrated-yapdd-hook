@@ -24,7 +24,7 @@ Default token (not recomended): ``default=TOKEN`` or ``TOKEN``
 If you like this script you are welcome to send me any donation:
 * Bitcoin: ``19mwci9V9vKwzM7UuySYCfdVuYeX5tmQZy``
 * WebMoney: ``R426393569840`` ``Z292591296225``
-* YandexMoney: ``pasha1st@yandex.ru``
+* YandexMoney: <https://money.yandex.ru/to/41001287590231>
 * PayPal: <https://paypal.me/pasha1st>
 
 ## More info
